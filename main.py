@@ -14,7 +14,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from rich.text import Text
 from rich.style import Style
-from cpmnuker import CPMNuker
+from hzcpmtool import HZCPMTOOL
 
 __CHANNEL_USERNAME__ = "HZCPMTOOL"
 __GROUP_USERNAME__   = "HZCPMTOOL"
